@@ -1,0 +1,58 @@
+* {
+   margin: 0;
+   padding: 0;
+}
+
+body {
+   font-family: Verdana, Arial, sans-serif;
+   font-size: 80%;
+   color: #232323;
+   margin-left: 10px;
+}
+
+table#wrap {
+   width: 991px;
+   border: none;
+   text-align: left;
+   padding-bottom: 50px;
+}
+
+table.sponsors {
+   text-align: center;
+}
+
+table.sponsors td {
+   padding: 5px;
+}
+
+#content td {
+   padding-top: 10px;
+}
+
+div.leftalign {
+   text-align: left;
+}
+
+a, a:visited {
+   text-decoration: none;
+}
+
+a:hover, a:visited:hover {
+   text-decoration: underline;
+}
+
+#header {
+   font-size: 110%;
+}
+
+h1 {
+   font-size: 175%;
+}
+
+h2 {
+   font-size: 120%;
+}
+
+strong#register {
+   font-size: 120%;
+}

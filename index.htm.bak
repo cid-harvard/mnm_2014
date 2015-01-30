@@ -1,0 +1,154 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Multiple Network Modeling, Analysis and Mining - Satellite Symposium at NetSci2013</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="keywords" content="multiple, networks, complex networks, multidimensional, multilayer, data mining, network analysis">
+	<meta name="description" content="Multiple Network Modeling, Analysis and Mining satellite symposium at NetSci2013 at DTU, Copenhagen, on Monday, June 3, 2013.">
+	<meta name="design" content="Michele Coscia">
+	<meta name="content" content="Guido Caldarelli, Michele Coscia, Przemyslaw Kazienko, Matteo Magnani, Dino Pedreschi, Luca Rossi">
+    <meta name="robots" content="all">
+<link rel="stylesheet" href="style.css" type="text/css">
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+</head>
+<body>
+<table id="wrap" cellpadding="0" cellspacing="0">
+  <tr id="header">
+    <td>
+      <table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr>
+          <td><div class="leftalign"><a href="http://www.netsci2013.net"><img src="netsci.png" /></a></div></td>
+        </tr>
+      </table>
+    </td>
+    <td><span class="textsmall"></span>
+      <table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr>
+          <td><div class="leftalign"><a href="https://docs.google.com/forms/d/1-HT6Wahk1iepnNmUfdG1gi3FA_5S-jygWrmZXv3qtkI/viewform" target="_blank"><strong id="register">Register</strong></a>&nbsp;&nbsp;<a href="#descr">Description</a>&nbsp;&nbsp;<a href="#ref">References</a>&nbsp;&nbsp;<a href="#keynotes">Speakers</a>&nbsp;&nbsp;<a href="#organizers">Committee</a>&nbsp;&nbsp;<a href="#attendance">Attendance</a>&nbsp; <a href="#netsci">NetSci</a> &nbsp;&nbsp;<a href="#contact">Contact</a></div></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr id="content">
+    <td align="left" valign="top">
+      <table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr>
+          <td align="left" valign="top"><p><img src="logo.png"><br />
+            <br />
+            &nbsp;&nbsp;&nbsp;<a href="https://docs.google.com/forms/d/1-HT6Wahk1iepnNmUfdG1gi3FA_5S-jygWrmZXv3qtkI/viewform" target="_blank"><strong id="register">Register</strong> (free of charge)</a><br /><br />
+            &nbsp;&nbsp;&nbsp;<a href="map.pdf">Download Map</a><br /><br />
+            &nbsp;&nbsp;&nbsp;<a href="flyer.pdf">Download Description</a><br /><br />
+            &nbsp;&nbsp;&nbsp;<span class='st_sharethis_large' displayText='ShareThis'></span>
+                              <span class='st_facebook_large' displayText='Facebook'></span>
+                              <span class='st_twitter_large' displayText='Tweet'></span>
+                              <span class='st_googleplus_large' displayText='Google +'></span>
+                              <span class='st_linkedin_large' displayText='LinkedIn'></span><br />
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td rowspan="3" align="left" valign="top"><table width="680" border="0" align="left" cellpadding="1" cellspacing="0">
+      <tr>
+        <td>
+          <h1>Multiple Network Modeling, Analysis and Mining</h1>
+          <h2>Satellite Symposium at NetSci2013</h2>
+          <br />
+          <a href="http://www.dtu.dk/" target="_blank" class="textblack"><strong>Copenhagen at DTU - Technical University of Denmark</strong></a> - campus in Lyngb (DTU Meeting Center - DTU Mødecenter), Mødelokale 1 on the first floor (<a href="map.pdf">Download map</a>)<br />
+          <strong>Monday, June 3rd, 2013</strong>: <strong>Starting @ 8AM</strong> - <strong>Ending @ 8PM</strong>.<br /><br />
+
+          <a name="descr"></a><h3>Description</h3>
+          A complex network is a model used to represent complex interacting phenomena such as social interactions among human beings, biological reactions in organisms and technological systems. Complex networks have been widely used by scholars from different fields to tackle a large number of real-world phenomena. Some important milestones in the recent scientific scenario, such as the ubiquitous emergence in different natural phenomena of small-world and scale-free structures, come from complex network analysis.
+          <br /><br />
+          Real-world phenomena may require very rich representations. For example, the entities under study may relate to each other for different reasons. In this case, complex networks considering only one kind of interaction are not sufficient anymore, and network scholars developed Multiple Network models.
+          <br /><br />
+          Multiple Networks are networks in which the nodes may be connected through different relations. Let us consider the case of a social network. At the present day, a person can establish a social relation with hundreds of different people. Are all these people "friends"? Is it possible to organize all these relationships in the same class? Of course not: we have relatives, sentimental relationships, work mates and several different reasons, and degrees, to call the people we know "friends" or "acquaintances".
+          <br /><br />
+          Multiple Networks have already proven useful in several publications. For example, [1] uses Multiple Networks to explain the dynamics behind interdependent complex systems such as the electrical grid and the computer network controlling it, in [2] authors uncover the complex structures of communities in Multiple Networks, and [3] used Multiple Networks to uncover the dynamics of friendly/enmity relationships in a massively multiplayer online game. These are only a few outcomes of an active and fast-growing interdisciplinary area of research.
+          <br /><br />
+          Multiple Networks require a toolbox that is different from normal network analysis. In [1] authors proved that the cascade failures in multiple networks obey to dynamics that are very different from the ones discovered for general complex networks. In [2], for their community discovery, authors needed to extend the popular concept of modularity to Multiple Networks. Finally, [3] provided some insights about the interdependence of links in Multiple Networks, paving the way to the development of a Multiple Network link prediction. These examples prove that, if reality is multifaceted, then also network analysis should be multifaceted, as also discussed in [4].
+          <br /><br />
+
+          <a name="ref"></a><h3>References</h3>
+          [1] Sergey V. Buldyrev, Roni Parshani, Gerald Paul, H. Eugene Stanley, and Shlomo Havlin. Catastrophic cascade of failures in interdependent networks. Nature, 464(7291):1025-1028, April 2010.
+          <br /><br />
+          [2] P. J. Mucha, T. Richardson, K. Macon, M. A. Porter, and J.-P. Onnela. Community Structure in Time-Dependent, Multiscale, and Multiplex Networks. Science, 328:876-878, November 2010.
+          <br /><br />
+          [3] Michael Szell, Renaud Lambiotte, and Stefan Thurner. Multirelational organization of large-scale social networks in an online world. Proceedings of the National Academy of Sciences, 107(31):13636-13641, August 2010.
+          <br /><br />
+          [4] Michele Berlingerio, Michele Coscia, Fosca Giannotti, Anna Monreale, and Dino Pedreschi. Multidimensional networks: foundations of structural analysis. In World Wide Web Journal, 2012.
+          <br /><br />
+
+          <a name="keynotes"></a><h3>Confirmed Speakers</h3>
+          <a href="http://www.cs.uiuc.edu/~hanj/" target="_blank"><strong>Jiawei Han</strong></a>, Univ. of Illinois at Urbana-Champaign<br />
+          <a href="http://statphys.korea.ac.kr/" target="_blank"><strong>Kwang Il-Goh</strong></a>, Korea University<br />
+          <a href="http://www.escet.urjc.es/~matemati/Regino/REGINOing.html" target="_blank"><strong>Regino Criado</strong></a>, Universidad Rey Juan Carlos<br />
+          <a href="http://www.lambiotte.be/" target="_blank"><strong>Renaud Lambiotte</strong></a>, University of Namur,<br />
+          <a href="http://www.ii.pwr.wroc.pl/~kazienko/eng_index.html" target="_blank"><strong>Piotr Br&oacute;dka</strong></a>, Wroclaw University of Technology<br />
+          <a href="http://icapeople.epfl.ch/thiran/" target="_blank"><strong>Patrick Thiran</strong></a>, EPFL Lausanne<br />
+          <a href="http://neptuno.unizar.es/jgg/" target="_blank"><strong>Jesus Gomez-Gardenes</strong></a>, University of Zaragoza<br />
+          <a href="http://www.michelecoscia.com/" target="_blank"><strong>Michele Coscia</strong></a>, Harvard University and KDDLab, CNR.<br /><br />
+
+          <a name="organizers"></a><h3>Organizing committee</h3>
+          <a href="http://www.guidocaldarelli.com/" target="_blank"><strong>Guido Caldarelli</strong></a>, IMT Lucca<br />
+          <a href="http://www.michelecoscia.com/" target="_blank"><strong>Michele Coscia</strong></a>, Harvard University<br />
+          <a href="http://www.ii.pwr.wroc.pl/~kazienko/eng_index.html" target="_blank"><strong>Przemyslaw Kazienko</strong></a>, Wroclaw University of Technology<br />
+          <a href="http://cs.au.dk/~magnanim/" target="_blank"><strong>Matteo Magnani</strong></a>, Aarhus University and KDDLab, CNR<br />
+          <a href="http://www.di.unipi.it/~pedre/" target="_blank"><strong>Dino Pedreschi</strong></a>, University of Pisa and KDDLab, CNR<br />
+          <a href="http://uniurb.academia.edu/LucaRossi" target="_blank"><strong>Luca Rossi</strong></a>, University of Urbino Carlo Bo<br />
+          <br />
+
+          <a name="attendance"></a><h3>Attendance</h3>
+          Attendance to our symposium is free of charge. As space is limited, we require registration by <a href="https://docs.google.com/forms/d/1-HT6Wahk1iepnNmUfdG1gi3FA_5S-jygWrmZXv3qtkI/viewform" target="_blank"><strong>subscribing to our GoogleDoc</strong></a>.
+          <br /><br />
+          We encourage everyone to also register for the main NetSci2013 conference. For the NetSci2013 registration fee and deadline please see: <a href="http://www.netsci2013.net/" target="_blank">http://www.netsci2013.net</a>.<br />
+          <br /><br />
+
+          <a name="netsci"></a><h3>About NetSci</h3>
+          <a href="http://www.netsci2013.net" target="_blank">The International Conference on Network Science 2013, NetSci2013</a>, in Copenhagen, Denmark, from June 3rd to 7th, 2013 focuses on interdisciplinary research on networks from various disciplines such as economy, biology, medicine, or sociology, and aims to bring new network analytic methods from physics, computer science, math, or statistics to the attention of a large and diverse audience.<br />
+          <br /><br />
+
+          <!--<a name="links"></a><h3>Links</h3>
+
+          <br /><br />-->
+
+          <a name="contact"></a><h3>Contact</h3>
+          If you have any question or remark, please drop us an e-mail at <strong><a href="mailto:mnam@isti.cnr.it">mnam@isti.cnr.it</a></strong>.
+
+      </tr>
+    </table>
+    </td>
+  </tr>
+  <tr>
+    <td align="left" valign="top"><p>&nbsp;</p>
+    <strong>&nbsp;&nbsp;&nbsp;Sponsors</strong><br /><br />
+    <table class="sponsors">
+     <tr><td colspan="2"><img src="bologna.jpg" width="200px" /></td></tr>
+    </table>
+    </td>
+  </tr>
+  <tr>
+    <td align="left" valign="top"><p>&nbsp;</p>
+    <strong>&nbsp;&nbsp;&nbsp;Organization</strong><br /><br />
+    <table class="sponsors">
+     <tr>
+      <td><img src="au.png" /></td>
+      <td><img src="uniurb.png" /></td>
+     </tr>
+     <tr>
+      <td><img src="cid.png" /></td>
+      <td><img src="kddlab.png" /></td>
+     </tr>
+     <tr>
+      <td><img src="imt.jpg" /></td>
+      <td><img src="wroclaw.jpg" /></td>
+     </tr>
+     <tr>
+      <td><img src="unipisa.jpg" /></td>
+      <td></td>
+     </tr>
+    </table>
+    </td>
+  </tr>
+</table>
+</body>
+</html>
